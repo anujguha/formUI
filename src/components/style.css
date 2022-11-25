@@ -1,0 +1,44 @@
+
+form{
+    display:inline-table;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: fit-content;
+    border-bottom: 2vh 2vh 2vh rgb(19, 44, 170);
+    padding:3vw;
+    height: fit-content;
+    background-image: url("./bg2.jpeg") ;
+    background-size: cover;
+}
+
+.imgbox{
+    height:200px;
+    width : 300px;
+    
+}
+.TextField1{
+    min-height: 30px;
+  width: 25vw;
+  height: 8vh;
+}
+.TextField{
+  min-height: 30px;
+  width: 50vw;
+  height: 8vh;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 2vh;
+
+}
+.btn div{
+    margin-left: 2vh;
+    margin-right: 2vh;
+    
+}
+.inputlabel{
+    color: #ffffff;
+}
